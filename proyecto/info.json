@@ -1,8 +1,0 @@
-{
-    "name": "Palabras Rapidas",
-    "version": "1.0.0",
-    "description": "Programa de mecanografiado con Javascript",
-    "main": "mecanografia.js",
-    "author": "Cristian Gomez Gusman",
-    "license": "ISC"
-  }
