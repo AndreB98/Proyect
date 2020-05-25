@@ -1,0 +1,8 @@
+{
+    "Author": "Javier Andre Beltran Canche",
+    "Description": "Programa de Mecanografiado con Javascript",
+    "License": "ISC",
+    "Main": "mecanografia.js",
+    "Name": "Palabras Rapidas",
+    "Version": "1.0.0"
+}
